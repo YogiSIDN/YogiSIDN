@@ -1,6 +1,6 @@
 [![LOLI PROTECTOR](https://github.com/YogiSIDN/YogiSIDN/blob/main/Background.png)](https://github.com/YogiSIDN)
 
-___
+------
 
 <p align='center'><a href="https://instagram.com/sounime_idn"><img height="200" src="https://github.com/YogiSIDN/YogiSIDN/blob/main/profile.png?raw=true"></a>&nbsp;&nbsp;</p>
 
@@ -10,7 +10,7 @@ ___
 
 <p align='center'> I'd like to do project that has relation to anime and more. </p>
 
-___
+------
 
 :page_with_curl: I'm currently learning:
 - Javascript
@@ -18,7 +18,7 @@ ___
 :star: Here are some projects that I'm working on:
 - [HikariBOT](https://wa.me/6281911971159)
 
-___
+------
 
 ### ☎️ Connect with me
 <p align="center">
